@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name :
-Roll no 
-Date of experiment :
+## Name :Sasinthar P
+## Roll no :212223230199
+## Date of experiment :10.03.2025
 
 
 
